@@ -13,7 +13,7 @@ I’m continuously learning and exploring new technologies:
 💡 Tech Interests: Python, Data Science, Machine Learning, Artificial Inteligence, other programming languages like C# and Scala.
 
 📫 Let’s connect: 
- | [LinkedIn](https://www.linkedin.com/in/jhon-diego-ledesma-a35050a4/)
+ | LinkedIn: [Jhon Diego Ledesma](https://www.linkedin.com/in/jhon-diego-ledesma-a35050a4/)
  | Email: [diego-ledes@hotmail.com](mailto:diego-ledes@hotmail.com)
 
 
