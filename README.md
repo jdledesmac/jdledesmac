@@ -1,4 +1,4 @@
-👋 Hi there! I’m an Diego Ledesma @jdledesmac, Electronics Engineer with 8+ years of experience in cellular network integration and optimization (UMTS, LTE, and 5G). 
+👋 Hi there! I’m Diego Ledesma @jdledesmac, Electronics Engineer with 8+ years of experience in cellular network integration and optimization (UMTS, LTE, and 5G). 
 
 I’m passionate about coding and data analysis — I enjoy building tools that transform raw network data into actionable insights. Most of my projects involve Python, with a focus on automation, KPI visualization, and performance analytics.
 
